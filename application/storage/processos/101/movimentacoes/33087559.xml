@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <codigoMovimentacaoProcesso>33087559</codigoMovimentacaoProcesso>
+    <codigoLotacao>2847</codigoLotacao>
+    <lotacao>PMMA-POLICIA MILITAR DO MARANHAO / DP/4-SECAO DE INATIVOS, PENSIONISTAS E EXPEDIENTE</lotacao>
+    <codigoArvoreFase>14</codigoArvoreFase>
+    <fase>ENCAMINHAR PROCESSO</fase>
+    <situacao>AGUARDANDO ENCAMINHAMENTO</situacao>
+    <textoEnvioOpcional>null</textoEnvioOpcional>
+    <permanencia>0min</permanencia>
+    <usuarioRecebedor>0</usuarioRecebedor>
+    <usuarioResponsavel>615302 - DOMINGAS FERREIRA</usuarioResponsavel>
+    <dadosUsuarioRemetente>615302 - DOMINGAS FERREIRA</dadosUsuarioRemetente>
+    <dadosUsuarioRecebedor/>
+    <servidorSI>615302 - DOMINGAS FERREIRA</servidorSI>
+    <dataHoraCadastro>2021-12-15 08:42:10.0</dataHoraCadastro>
+    <dataHoraRecebimento>null</dataHoraRecebimento>
+</root>
